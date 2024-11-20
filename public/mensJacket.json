@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "category": "mans",
+    "name": "Snowboard Jacket Mens",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 135,
+    "image": "https://i.ibb.co.com/cyLn2g6/jacket-4.png"
+  },
+  {
+    "_id": 2,
+    "category": "mans",
+    "name": "Man Leather Jackets ",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "image": "https://i.ibb.co.com/0ZfSknd/jacket-5.png"
+  },
+  {
+    "_id": 3,
+    "category": "mans",
+    "name": "Man Casual Jackets ",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 267,
+    "image": "https://i.ibb.co.com/pyCQ3Sp/jacket-6.png"
+  },
+  {
+    "_id": 4,
+    "category": "mans",
+    "name": "Snowboard Jacket Mens",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 135,
+    "image": "https://i.ibb.co.com/cyLn2g6/jacket-4.png"
+  },
+  {
+    "_id": 5,
+    "category": "mans",
+    "name": "Man Leather Jackets ",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "image": "https://i.ibb.co.com/0ZfSknd/jacket-5.png"
+  },
+  {
+    "_id": 6,
+    "category": "mans",
+    "name": "Man Casual Jackets ",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 267,
+    "image": "https://i.ibb.co.com/pyCQ3Sp/jacket-6.png"
+  }
+]
